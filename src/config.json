@@ -1,0 +1,10 @@
+{
+    "directories": [
+      "./layers/1 BACKGROUND",
+      "./layers/2 BODY",
+      "./layers/3 FACE",
+      "./layers/4 LOOK",
+      "./layers/5 RIGHT HAND"                  
+    ],
+    "numImagesToBuild": 10
+  }
